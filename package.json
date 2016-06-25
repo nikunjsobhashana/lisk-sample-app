@@ -19,6 +19,10 @@
 		"extend": "^3.0.0",
 		"ip": "*",
 		"js-nacl": "^0.6.0",
-		"z-schema": "https://github.com/LiskHQ/z-schema/tarball/master"
+		"z-schema": "https://github.com/LiskHQ/z-schema/tarball/master",
+		"express": "3.4.8",
+		"jade": "*",
+		"socket.io": "~0.9",
+		"mysql": "*"
 	}
 }
